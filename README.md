@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/DSA-blueviolet?style=for-the-badge" alt="DSA" />
   <img src="https://img.shields.io/badge/Redis-F52A00?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Kafka-AD3BD9?style=for-the-badge&logo=kafka" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Kafka-AD3BD9?style=for-the-badge&logo=apachekafka" alt="Kafka" />
 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-176D73?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
