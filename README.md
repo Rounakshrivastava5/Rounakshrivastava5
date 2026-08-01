@@ -15,4 +15,5 @@
   <img src="https://img.shields.io/badge/PostgreSQL-176D73?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Github Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Github Copilot" />
 </p>
